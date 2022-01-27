@@ -1,6 +1,7 @@
 # Adrien-Ray
  - mon portfolio: [link](https://portfolio.accesdenied.net)
  - mon blog: [link](https://portfolio.accesdenied.net/pages/blog.php)
+ - gitlab: [link](https://gitlab.com/Adrien-Ray)
 
  - [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrien-Ray&theme=prussian)](https://github.com/Adrien-Ray/github-readme-stats)
 
